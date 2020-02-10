@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.douzone</groupId>
-    <artifactId>jdbc-pratices</artifactId>
+    <artifactId>jdbc-practices</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>bookshop</artifactId>
